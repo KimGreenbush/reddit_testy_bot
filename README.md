@@ -3,4 +3,4 @@
 ## Introduction
 Testing out how to build bots with Python as a first step toward learning about AI building.
 
-*For testing/development only*
+*For learning and testing/development purposes only*
